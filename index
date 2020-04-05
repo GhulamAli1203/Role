@@ -7,6 +7,7 @@
 <ul>
 <li> Click Add Role </li>
 <li> Enter name of the role and short description. </li>
+<p> Role name must be unique </p>
 <li> Under Permissions tab, click Access Levels </li>
 <li> Click the modules which you want to grant access to. </li>
 </ul>
