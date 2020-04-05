@@ -1,0 +1,15 @@
+<html>
+<body>
+<h> Understanding the concepts of Roles</h>
+<p> What is a Role? </p>
+<p>  A role refers to the level of accessibility that a user can have in an organization.</p>
+<h> Add Role </h>
+<ul>
+<li> Click Add Role </li>
+<li> Enter name of the role and short description. </li>
+<li> Under Permissions tab, click Access Levels </li>
+<li> Click the modules which you want to grant access to. </li>
+</ul>
+<p> Role is created successfully. </p>
+</body>
+</html>
